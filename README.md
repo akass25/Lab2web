@@ -33,5 +33,10 @@ maka hasil nya menjadi seperti ini.
 ![ss11](https://user-images.githubusercontent.com/102292839/161187283-60ded3a5-ce6e-4591-ab6a-46180d2fa664.png)
 
 Jika sudah kita akan membuat tabel from nya.
-
+![ss16](https://user-images.githubusercontent.com/102292839/161187901-00acc807-9834-4480-b3c9-d15f3bda22a4.png)
 dan hasilnya akan menjadi seperti ini.
+![ss7](https://user-images.githubusercontent.com/102292839/161187944-c27e614b-a7ff-44e4-81bf-78aa95c9ba69.png)
+
+lalu kita akan akan membuat style nya supaya tampilan menjadi lebih menarik.
+
+hasil program.

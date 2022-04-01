@@ -22,4 +22,8 @@ lalu kita akan buat description list nya.
 dan hasil program akan jadi seperti ini.
 ![ss2](https://user-images.githubusercontent.com/102292839/161186007-378ef43a-a54c-4a03-bcdc-a4e1f9da8168.png)
 
+jika sudah kita akan membuat table dan mengatur cellspacing dan cellspading 
+
+hasilnya akan menjadi seperti ini. 
+
 

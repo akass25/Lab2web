@@ -17,4 +17,8 @@ selanjutnya buat program unordered list.
 dan hasil program akan jadi seperti ini.
 ![ss9](https://user-images.githubusercontent.com/102292839/161185598-0eef9545-ab00-495e-b866-9eb691579c88.png)
 
+lalu kita akan buat description list nya.
+
+dan hasil program akan jadi seperti ini.
+
 

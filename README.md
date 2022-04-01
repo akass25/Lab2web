@@ -7,5 +7,6 @@ Untuk membuat dropdown dan listbox saya menggunakan element &lt;select&gt; untuk
 
 2. Praktik
 
-pertama buat file baru kemudian dinamai dengan lab3_list_menu.html, lalu buat program ordered list
+pertama buat file baru kemudian dinamai dengan lab3_list_menu.html, lalu buat program ordered list.
+![ss11](https://user-images.githubusercontent.com/102292839/161184947-fabde6d0-1a70-4cdc-bf49-62bac56394c3.png)
 

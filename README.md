@@ -38,6 +38,6 @@ dan hasilnya akan menjadi seperti ini.
 ![ss7](https://user-images.githubusercontent.com/102292839/161187944-c27e614b-a7ff-44e4-81bf-78aa95c9ba69.png)
 
 lalu kita akan akan membuat style nya supaya tampilan menjadi lebih menarik.
-
+![ss17](https://user-images.githubusercontent.com/102292839/161188613-281952c8-0126-4e4d-a478-e9252ac01a2c.png)
 hasil program.
 ![ss10](https://user-images.githubusercontent.com/102292839/161188348-e0f64bd1-f6a8-46d8-8ee7-9905e75424f4.png)

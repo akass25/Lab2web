@@ -18,7 +18,8 @@ dan hasil program akan jadi seperti ini.
 ![ss9](https://user-images.githubusercontent.com/102292839/161185598-0eef9545-ab00-495e-b866-9eb691579c88.png)
 
 lalu kita akan buat description list nya.
-
+![ss13](https://user-images.githubusercontent.com/102292839/161186143-e104b989-fdd7-4769-8af8-0113a17c13b4.png)
 dan hasil program akan jadi seperti ini.
+![ss2](https://user-images.githubusercontent.com/102292839/161186007-378ef43a-a54c-4a03-bcdc-a4e1f9da8168.png)
 
 

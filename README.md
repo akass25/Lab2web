@@ -28,6 +28,10 @@ hasilnya akan menjadi seperti ini.
 ![ss8](https://user-images.githubusercontent.com/102292839/161186850-82e3ac31-1f5a-4905-9d29-2509fd8797d1.png)
 
 lalu membuat rowspan dan menggabungkan cell menjadi satu.
-
+![ss15](https://user-images.githubusercontent.com/102292839/161187253-a37668d5-da0d-47b8-ba1d-fbfdf6cae1e1.png)
 maka hasil nya menjadi seperti ini. 
+![ss11](https://user-images.githubusercontent.com/102292839/161187283-60ded3a5-ce6e-4591-ab6a-46180d2fa664.png)
 
+Jika sudah kita akan membuat tabel from nya.
+
+dan hasilnya akan menjadi seperti ini.

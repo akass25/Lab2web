@@ -40,3 +40,4 @@ dan hasilnya akan menjadi seperti ini.
 lalu kita akan akan membuat style nya supaya tampilan menjadi lebih menarik.
 
 hasil program.
+![ss10](https://user-images.githubusercontent.com/102292839/161188348-e0f64bd1-f6a8-46d8-8ee7-9905e75424f4.png)

@@ -23,7 +23,11 @@ dan hasil program akan jadi seperti ini.
 ![ss2](https://user-images.githubusercontent.com/102292839/161186007-378ef43a-a54c-4a03-bcdc-a4e1f9da8168.png)
 
 jika sudah kita akan membuat table dan mengatur cellspacing dan cellspading 
-
+![ss14](https://user-images.githubusercontent.com/102292839/161186828-18a70eee-a8f2-43c4-9948-41cdd8fe9c59.png)
 hasilnya akan menjadi seperti ini. 
+![ss8](https://user-images.githubusercontent.com/102292839/161186850-82e3ac31-1f5a-4905-9d29-2509fd8797d1.png)
 
+lalu membuat rowspan dan menggabungkan cell menjadi satu.
+
+maka hasil nya menjadi seperti ini. 
 

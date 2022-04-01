@@ -12,4 +12,8 @@ pertama buat file baru kemudian dinamai dengan lab3_list_menu.html, lalu buat pr
 Hasil program akan jadi seperti ini.
 ![ss5](https://user-images.githubusercontent.com/102292839/161185126-2664ce55-85df-4a0d-aa6a-c33d8af2a916.png)
 
+selanjutanya buat program unordered list.
+
+dan hasil program akan jadi seperti ini.
+
 
